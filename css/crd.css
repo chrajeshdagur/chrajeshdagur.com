@@ -1,5 +1,14 @@
-/* CRD css file */
+/* CRD css file
 
 * { outline: 3px solid red }
 
+*/
 
+
+.rotate {
+    position:absolute;
+    transform: rotate(90deg);
+  
+  
+  
+  }
